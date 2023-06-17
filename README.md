@@ -1,4 +1,4 @@
-![title](./img/blackpepper_logo_v01.png)
+![title](python/BlackPepper/img/blackpepper_logo_v01.png)
 # This repository is a clone of a team project : BlackPepper
 > I talked to other team members and moved the project from Jetbrains Space to GitHub.\
 > Parts I worked: Developed the main logic of UI(model.py, controller.py, view.py) and pepper.py(Wrapper API of Gazu)
@@ -43,19 +43,19 @@
 ## UI Design 
 * Login window
 
-![login](./img/login.png)
+![login](python/BlackPepper/img/login.png)
 
 * Main window
 
-![main](./img/main.png)
+![main](python/BlackPepper/img/main.png)
 
 * Render progress window
 
-![progress](./img/progress.png)
+![progress](python/BlackPepper/img/progress.png)
 
 * Render path checker window
 
-![path](./img/path.png)
+![path](python/BlackPepper/img/path.png)
 ***
 # Contributors
 ### Sunjun Park
